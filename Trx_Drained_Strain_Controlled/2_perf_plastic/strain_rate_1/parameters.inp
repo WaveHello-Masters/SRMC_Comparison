@@ -15,5 +15,5 @@ Strain rate 1          # Model name
 0.0          # switch_smooth
 0.0          # Num smoothing
 0.0          # switch original
-1e-16          # FTOl
-10000          # max stress iters
+1e-08          # FTOl
+1000          # max stress iters
