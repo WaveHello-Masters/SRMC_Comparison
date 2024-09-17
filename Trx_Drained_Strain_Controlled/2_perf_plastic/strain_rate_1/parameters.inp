@@ -1,0 +1,19 @@
+Strain rate 1          # Model name
+17          # Number of properties
+2500          # Init Shear Modulus
+0.2          # poisson ratio
+1          # M_tc
+0.0          # Nova's N
+0.0          # D_min
+0.0          # h
+0.0          # alpha_G
+0.0          # alpha_K
+0.0          # alpha_D
+0.0          # D_part
+0.0          # G_s
+0.0          # ref_rate
+0.0          # switch_smooth
+0.0          # Num smoothing
+0.0          # switch original
+1e-16          # FTOl
+10000          # max stress iters
