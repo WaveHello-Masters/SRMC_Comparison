@@ -1,2 +1,0 @@
-#!/bin/bash
-/mnt/data/the_deep/Geotech_Research/Critical_Soil_Models/Strain_Rate_Mohr_Coulomb/build/gfortran_E167FD2A985B468F/app/SRMC_incrementalDriver

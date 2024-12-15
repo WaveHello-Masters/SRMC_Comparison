@@ -1,0 +1,22 @@
+6               # ntens, tension is positive
+-100               # s11
+-100               # s22
+-100               # s33
+0               # s12
+0               # s13
+0               # s23
+14               # Number of state variables
+0               # shear modulus - init value
+0               # bulk modulus - init value
+0               # Stress ratio - init value
+0               # Dilatancy - init value
+0               # Inertial Coeff - init value
+0               # yielding (1 for yes) - init value
+0               # EspP_1 - init value
+0               # EspP_2 - init value
+0               # EspP_3 - init value
+0               # EspP_4 - init value
+0               # EspP_5 - init value
+0               # EspP_6 - init value
+0               # N_i - init value
+0               # Sum_rate - init value

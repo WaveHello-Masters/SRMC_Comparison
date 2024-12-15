@@ -1,13 +1,13 @@
-Strain rate 1          # Model name
+OS_Perf_Plastic          # Model name
 18          # Number of properties
-50          # Init Shear Modulus
-0.0          # poisson ratio
-2.5          # M_tc
+2500          # Init Shear Modulus
+0.2          # poisson ratio
+1          # M_tc
 0.0          # Nova's N
 0.0          # D_min
-30          # h
-0.0          # alpha_G
+0.0          # h
 0.0          # alpha_K
+0.0          # alpha_G
 0.0          # alpha_D
 0.0          # D_part
 0.0          # G_s
