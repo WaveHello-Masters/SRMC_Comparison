@@ -1,0 +1,20 @@
+Ortiz_Simo          # Model name
+18          # Number of properties
+2500          # Init Shear Modulus
+0.2          # poisson ratio
+1.31          # M_tc
+0.0          # Nova's N
+-0.1          # D_min
+20          # h
+0.04          # alpha_G
+0.1          # alpha_K
+0.04          # alpha_D
+0.32          # D_part
+2.68          # G_s
+2.5e-05          # ref_rate
+0.0          # switch_smooth
+0.0          # Num smoothing
+0.0          # switch original
+1e-08          # FTOl
+1000          # max stress iters
+1          # switch_plastic_integration

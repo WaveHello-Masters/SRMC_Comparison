@@ -5,7 +5,7 @@ Sloan_Abbo          # Model name
 1.000990225433476          # M_tc
 0.0          # Nova's N
 -0.2          # D_min
-50          # h
+20          # h
 0.0          # alpha_K
 0.0          # alpha_G
 0.0          # alpha_D

@@ -1,0 +1,5 @@
+output.txt
+*TriaxialE1
+5000 100 -8.000000000000001e-06 : 1          # ninc maxiter dtime : every
+-0.4          # ddstran_1
+*End
