@@ -1,0 +1,20 @@
+Ortiz_MCSS          # Model name
+18          # Number of properties
+1041.6666666666667          # Init Shear Modulus
+0.2          # poisson ratio
+1.000990225433476          # M_tc
+0.0          # Nova's N
+-0.2          # D_min
+20          # h
+0.08          # alpha_G
+0.2          # alpha_K
+0.08          # alpha_D
+0.00032          # D_part [m]
+2.68          # G_s
+2.5e-05          # ref_rate
+0.0          # switch_smooth
+0.0          # Num smoothing
+0.0          # switch original
+1e-08          # FTOl
+1000          # max stress intg iters
+1          # switch_plastic_integration

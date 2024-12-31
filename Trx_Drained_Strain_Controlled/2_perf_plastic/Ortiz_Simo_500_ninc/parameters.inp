@@ -1,13 +1,13 @@
 Ortiz_MCSS          # Model name
 18          # Number of properties
-2500          # Init Shear Modulus
+1041.6666666666667          # Init Shear Modulus
 0.2          # poisson ratio
 1.000990225433476          # M_tc
 0.0          # Nova's N
 0.0          # D_min
 0          # h
-0.0          # alpha_K
 0.0          # alpha_G
+0.0          # alpha_K
 0.0          # alpha_D
 0.0          # D_part
 0.0          # G_s
